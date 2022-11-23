@@ -442,6 +442,7 @@ img {
     padding-bottom: 60px;
     padding-top: 60px;
     
+    
 }
 .address {
     font-style: normal;
@@ -458,6 +459,9 @@ img {
 }
 .footer {
     color: var(--white);
+}
+.foot-container{
+    display: flex;
 }
 .contact-link.footer {
     color: var(--secondary-text-footer);
@@ -479,6 +483,9 @@ margin-bottom: 9px;
 .social-networks-footer {
     display: flex;
     
+}
+.social-footer-box {
+    margin-left: 93px;
 }
 
 .social-footer-title {
