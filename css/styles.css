@@ -150,14 +150,13 @@ img {
     line-height: 1.19;
     letter-spacing: 0.03em;
     text-decoration: none;
-    
-    padding-top: 24px;
-    padding-bottom: 25px;
-    
+            
 }
 
 .header-logo {
     margin-right: 93px;
+    padding-top: 24px;
+    padding-bottom: 25px;
 }
 .studio {
     color: var(--black);
@@ -431,8 +430,7 @@ img {
 
     padding-bottom: 60px;
     padding-top: 60px;
-    
-    
+        
 }
 .address {
     font-style: normal;
@@ -532,6 +530,7 @@ margin-bottom: 9px;
 .all-projects-link {
     display: inline-block;
     text-decoration: none;
+    outline: transparent;
 }
 .all-projects-link:focus,
 .all-projects-link:hover {
